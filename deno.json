@@ -1,1 +1,5 @@
-{}
+{
+  "imports": {
+    "@huggingface/jinja": "npm:@huggingface/jinja@^0.5.9"
+  }
+}
